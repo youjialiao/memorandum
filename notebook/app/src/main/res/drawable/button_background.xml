@@ -1,0 +1,5 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <corners android:radius="20dp" /> <!-- 設置圓角半徑，這裡為 20dp，您可以根據需要調整 -->
+    <solid android:color="#3498db" /> <!-- 設置按鈕的填充顏色，這裡為藍色，您可以根據需要調整 -->
+</shape>
